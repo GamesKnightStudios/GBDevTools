@@ -1,0 +1,11 @@
+img2gb v1.1.0 https://github.com/flozz/img2gb/releases
+bgb v1.5.8 https://bgb.bircd.org/
+gbdk v3.2 https://github.com/Zal0/gbdk-2020/releases
+gbmb v1.8 http://www.devrs.com/gb/hmgd/gbmb.html
+gbtd v2.2 http://www.devrs.com/gb/hmgd/gbtd.html
+gbt-player v3.0.8 https://github.com/AntonioND/gbt-player
+improved gbt-layer https://github.com/gingemonster/GamingMonstersGameBoySampleCode/tree/master/19_making_music
+OpenMPT v1.29 https://openmpt.org/download
+PyxelEdit v0.22.22c (beta) https://pyxeledit.com/get.php
+EZFlashJr Firmware v4-K1.04e http://www.ezflash.cn/product/ezflash-junior/
+Custom boot logo https://blog.dodslaser.se/Almost-Booting-the-Gameboy-with-a-Custom-Logo/

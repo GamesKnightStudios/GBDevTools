@@ -9,3 +9,4 @@ OpenMPT v1.29 https://openmpt.org/download
 PyxelEdit v0.22.22c (beta) https://pyxeledit.com/get.php
 EZFlashJr Firmware v4-K1.04e http://www.ezflash.cn/product/ezflash-junior/
 Custom boot logo https://blog.dodslaser.se/Almost-Booting-the-Gameboy-with-a-Custom-Logo/
+GBxCart Flasher v1.34 https://shop.insidegadgets.com/product/gbxcart-rw/
